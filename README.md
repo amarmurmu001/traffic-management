@@ -38,6 +38,4 @@ This project implements a traffic management system using computer vision techni
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-## License
 
-This project is free to use.
