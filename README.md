@@ -1,6 +1,6 @@
 # Traffic Management System
 
-This project implements a traffic management system using computer vision techniques. The system detects vehicles in a video stream, calculates their density in each lane, and controls traffic lights based on the density of vehicles in each lane.
+This project implements a traffic management system using computer vision techniques. The system can detects vehicles in a video stream or integrated camera , calculates their density in each lane, and controls traffic lights based on the density of vehicles in each lane.
 
 ## Requirements
 
