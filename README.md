@@ -21,7 +21,7 @@ This project implements a traffic management system using computer vision techni
 
 1. Place the video file you want to process in the project directory.
 
-2. Modify the `video_path` variable in the script to point to your video file.
+2. Modify the `video_path` variable in the script to point to your video file or if you wan to integrate camera put the camera index.
 
 3. Run the script: python traffic_management.py
 
